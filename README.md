@@ -16,3 +16,5 @@ Tkinter: Para la interfaz gráfica de usuario del juego.
 AUTORES:
 - Alex Bellosta Buiza
 - Xavier Masot
+- Alex Ormeño
+- Alejandro Gómez
